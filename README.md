@@ -37,7 +37,7 @@ https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/sa
 
 Un peu de dérivation avant de tracer quelques écoulements importants
 
-[enonces/introduction/IntroNum.ipynb](./enonces/sources_elementaires/sourcesElem.ipynb)
+[enonces/sources_elementaires/sourcesElem.ipynb](./enonces/sources_elementaires/sourcesElem.ipynb)
 
 Vous pouvez utilisez directement l'adresse suivante pour obtenir une copie de travail sur le serveur PIMS: 
 https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/sanjosem/mec757_students&subPath=enonces/sources_elementaires/sourcesElem.ipynb&branch=main
