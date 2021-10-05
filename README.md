@@ -33,7 +33,7 @@ Nous balayons les commandes de base de python par analogie à ce que nous connai
 Vous pouvez utilisez directement l'adresse suivante pour obtenir une copie de travail sur le serveur PIMS: 
 https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/sanjosem/mec757_students&subPath=enonces/introduction/IntroNum.ipynb&branch=main
 
-### 2. Introduction aux sources élémentaires
+### 2. Introduction aux écoulements élémentaires
 
 Un peu de dérivation avant de tracer quelques écoulements importants
 
@@ -41,3 +41,12 @@ Un peu de dérivation avant de tracer quelques écoulements importants
 
 Vous pouvez utilisez directement l'adresse suivante pour obtenir une copie de travail sur le serveur PIMS: 
 https://cybera.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/sanjosem/mec757_students&subPath=enonces/sources_elementaires/sourcesElem.ipynb&branch=main
+
+### 3. Superposition d'écoulements élémentaires, forces aérodynamiques
+
+Il est conseillé de travailler en local dans le cadre de ce TP car vous aller éditer un module. Téléchargez le dossier et rendez vous dans votre copie locale sous le dossier `enonces/ecoulements_potentiels` 
+
+[enonces/ecoulements_potentiels/superposition.ipynb](./enonces/ecoulements_potentiels/superposition.ipynb)
+
+Vous pouvez utilisez directement l'adresse suivante pour obtenir une copie de travail sur le serveur PIMS: 
+https://pims.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/sanjosem/mec757_students&subPath=enonces/ecoulements_potentiels/superposition.ipynb&branch=main
